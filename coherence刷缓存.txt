@@ -1,0 +1,10 @@
+准发布coherence缓存刷新主机：
+主机：20.26.3.204 aimsm/Aimsm@2015
+			   					aisyn/Aimsm@2015
+路径：/app/aimsm/app/cache_load/bin;sh start_all.sh
+
+
+测试coherence缓存刷新主机：
+主机：20.26.3.230 aimsm/aimsm
+路径：/app/aimsm/app/task/bin,start_all.sh
+日志：/app/aimsm/app/task/log
